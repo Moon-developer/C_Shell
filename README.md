@@ -1,5 +1,5 @@
 # C_Shell
-WeThinkCode project to create a full functioning shell from scratch in c programming using a norm standard of 5 functions max per file in which each function is allowed a max of 25 line and 80 coloumns. The shell must have all the functionality of a full shell like bash/sh/zsh with extra functionality of our own. This was a one month project in C.
+Poject to create a full functioning shell from scratch in c programming using a norm standard of 5 functions max per file in which each function is allowed a max of 25 line and 80 coloumns. The shell must have all the functionality of a full shell like bash/sh/zsh with extra functionality of my own. This was a one month project in built in C.
 
 ### Installing
 
